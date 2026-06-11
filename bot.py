@@ -18,7 +18,7 @@ storage = MemoryStorage()
 dp = Dispatcher(storage=storage)
 
 # Файл для хранения ID сообщения
-MESSAGE_STATE_FILE = "/opt/bot/tmp/wb_bot_message_state.json"
+MESSAGE_STATE_FILE = "/opt/WB-Stream-Bot/tmp/wb_bot_message_state.json"
 
 # Списки для рандомных имён
 MALE_FIRST_NAMES = [
